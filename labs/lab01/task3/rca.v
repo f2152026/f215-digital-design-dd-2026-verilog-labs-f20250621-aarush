@@ -11,6 +11,7 @@
 // Task 2 (FA0..FA3, carry chain c1,c2,c3).
 
 module rca(
+  
   input  [3:0] a,
   input  [3:0] b,
   input        cin,
